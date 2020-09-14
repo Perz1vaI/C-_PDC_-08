@@ -33,7 +33,7 @@ Completar la tarea que fui asignado a hacer.
 
 ## :computer: Código
 
-- :blue_book: [Punto de Control #08](https://github.com/Perz1vaI/C-_TDH.git)
+- :blue_book: [Punto de Control #08](https://github.com/Perz1vaI/C-_PDC_-08.git)
 
 ---
 #### Herramientas:
